@@ -1,8 +1,0 @@
-Vivado Simulator 2020.2
-Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
-Running: E:/Vivado_Vitis/Installation_Files/Vivado/2020.2/bin/unwrapped/win64.o/xelab.exe -wto e424abb839654159ae269334aa429152 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_encoder_8_3_behav xil_defaultlib.tb_encoder_8_3 xil_defaultlib.glbl -log elaborate.log 
-Using 2 slave threads.
-Starting static elaboration
-Pass Through NonSizing Optimizer
-ERROR: [VRFC 10-3236] concurrent assignment to a non-net 'i7' is not permitted [C:/Users/abhim/OneDrive/Documents/Xilinx/encoder_8_3/encoder_8_3.srcs/sim_1/new/tb_encoder_8_3.v:9]
-ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.
