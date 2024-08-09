@@ -1,6 +1,4 @@
-# Basic_Digital_Projects
-
-# Digital Design Projects
+# Basic Digital Design Projects
 
 This repository contains various digital design projects that I have worked on, categorized into Combinational Circuits, Memory, and Sequential Circuits. Each project includes detailed explanations, design files, and simulation results.
 
