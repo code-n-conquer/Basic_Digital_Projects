@@ -15,7 +15,7 @@ These circuits perform operations based solely on the current inputs. Below are 
 - **Decoders**
 - **Priority Encoders**
 
-### 2. Sequential Circuits
+### 2. Sequential Circuits and Memory
 These circuits are dependent on both current inputs and previous states. The projects in this category include:
 
 - **D Flip-Flop**
